@@ -1,5 +1,5 @@
 using System; // говорят по хорошему лучше его юзать
-class Lmao
+class Lmao // класс пишем с большой буквы
 {
     static void lulz(string i="")
     {
