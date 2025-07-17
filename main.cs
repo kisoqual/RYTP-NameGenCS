@@ -1,7 +1,7 @@
 using System; // говорят по хорошему лучше его юзать, но с C#9 необязателен
 class Lmao // класс пишем с большой буквы
 {
-    static void lulz(string i="")
+    static void lulz(string i)
     {
         Console.Write("какой ты RYTP хочеш? ");
         string j = Console.ReadLine();
@@ -12,7 +12,7 @@ class Lmao // класс пишем с большой буквы
         //string j = System.Console.ReadLine();
         //System.Console.WriteLine(j+i);
     }
-    static void Main(string[] args)
+    static void Main()
     {
         lulz(" RYTP");
     }
