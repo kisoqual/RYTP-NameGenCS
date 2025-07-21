@@ -1,6 +1,6 @@
 using System; // говорят по хорошему лучше его юзать, но с C#9 необязателен
 //using static System.Console; //доступно только с C# 10 (.NET 6)
-//using System.Console - так не работает
+//using System.Console; - так не работает
 
 class Lmao // класс пишем с большой буквы
 {
